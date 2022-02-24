@@ -2,7 +2,16 @@
 <h1 align="center"> Hi 👋I'm Fly-Pluche</h1>
 <h3 align="center">A passionate :cape_verde: developer from China</h3>
 
-[![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Welcom💖&width=1000&height=400)](https://github.com/Akshay090/svg-banners)
+<!-- [![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Welcom💖&width=1000&height=400)](https://github.com/Akshay021/svg-banners) -->
+![12](https://user-images.githubusercontent.com/73021377/155558148-3bab9dff-3126-4dad-b223-ee6322278d24.jpeg)
+
+```
+当大佬们在卷的时候
+  Fly-Pluche还在与周公约会 ~ ~ ~                      
+　　 ⊂⌒／ヽ-、＿_
+　／⊂_/＿＿＿＿ ／
+　￣￣￣￣￣￣￣
+```
 
 ### 🌈 Github Stats:
 <a href="https://count.getloli.com"><img align="center" src="https://count.getloli.com/get/@Fly-Pluche?theme=rule34"></a><br>
@@ -34,13 +43,7 @@
 3. :dart: Play Online game with others.
 4. ⛵ Watch anime on bilibili.
 
-```
-当大佬们在卷的时候
-  Fly-Pluche还在与周公约会~~~                      
-　　 ⊂⌒／ヽ-、＿_
-　／⊂_/＿＿＿＿ ／
-　￣￣￣￣￣￣￣
-```
+
 
 <!--
 **xihuanxiaorang/xihuanxiaorang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
