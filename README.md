@@ -1,9 +1,9 @@
 ###
 <h1 align="center"> Hi 👋I'm Fly-Pluche</h1>
-<h3 align="center">A passionate :cape_verde: developer from China</h3>
+<h3 align="center">A trash 😈developer who still loves to learn anything</h3>
 
 <!-- [![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Welcom💖&width=1000&height=400)](https://github.com/Akshay021/svg-banners) -->
-![12](https://user-images.githubusercontent.com/73021377/155558148-3bab9dff-3126-4dad-b223-ee6322278d24.jpeg)
+<img align="center" src="https://user-images.githubusercontent.com/73021377/155558148-3bab9dff-3126-4dad-b223-ee6322278d24.jpeg" style="border-radius:50px;width:800px">
 
 ```
 当大佬们在卷的时候
