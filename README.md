@@ -1,15 +1,15 @@
-### Hi there 👋
+###
 
 [![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Welcom💖&width=1000&height=400)](https://github.com/Akshay090/svg-banners)
 
-<h1 align="center">I'm Fly-Pluche</h1>
+<h1 align="center"> Hi 👋I'm Fly-Pluche</h1>
 <h3 align="center">A passionate :cape_verde: developer from China</h3>
 
 ### 🌈 Github Stats:
 <a href="https://count.getloli.com"><img align="center" src="https://count.getloli.com/get/@xihuanxiaorang?theme=rule34"></a><br>
 <img src = "https://github-readme-stats.vercel.app/api?username=Fly-Pluche&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
-<img src = "http://github-readme-streak-stats.herokuapp.com?user==Fly-Pluche&theme=dracula">
-<img src = "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username==Fly-Pluche&theme=monokai">
+<img src = "http://github-readme-streak-stats.herokuapp.com?user=Fly-Pluche&theme=dracula">
+<img src = "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fly-Pluche&theme=monokai">
 
 ### 📫 How to reach me:
 - :octocat: [github@Fly-Pluche](https://github.com/Fly-Pluche)
@@ -29,7 +29,11 @@
 4. :muscle:  Try to build on myself.
 <!--END_SECTION:activity-->
 
-### 
+### ✨Hooby
+1. 💬 Make friends with you.
+2. 🏸 Play ball game,such as pingpong,tennis and so on,but badminton is my best.
+3. 🤔 Play Online game with others.
+4. ⛵ Watch anime on bilibili.
 
 <!--
 **xihuanxiaorang/xihuanxiaorang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
