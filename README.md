@@ -2,8 +2,8 @@
 <h1 align="center"> Hi 👋I'm Fly-Pluche</h1>
 <h3 align="center">A trash 😈developer who still loves to learn anything</h3>
 
-[![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Welcom💖&width=1000&height=400)](https://github.com/Akshay021/svg-banners)
-<!-- <img align="middle" src="https://user-images.githubusercontent.com/73021377/155558148-3bab9dff-3126-4dad-b223-ee6322278d24.jpeg" style="border-radius:50px;width:800px"> -->
+<!-- [![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Welcom💖&width=1000&height=400)](https://github.com/Akshay021/svg-banners) -->
+<img align="middle" src="https://user-images.githubusercontent.com/73021377/155558148-3bab9dff-3126-4dad-b223-ee6322278d24.jpeg" style="border-radius:50px;width:1000px">
 
 ```
 当大佬们在卷的时候
@@ -16,7 +16,6 @@
 | :pencil2: | :memo:  |
 | --- | --- |
 | [Blogs](https://Fly-Pluche.github.io/) | [CSDN](https://blog.csdn.net/qq_51302564?type=blog)|
-
 # ⚡ Activity
 <!--START_SECTION:activity-->
 1. 🍭 Write Articles on [CSDN](https://blog.csdn.net/qq_51302564?type=blog).
@@ -24,10 +23,6 @@
 3. 🍹 Study on [Bilibili](https://www.bilibili.com/)
 4. :muscle:  Try to build on myself.
 
-# 📫 How to reach me:
-- :octocat: [github@Fly-Pluche](https://github.com/Fly-Pluche)
-- :email: [gmail@Fly-Pluche](mailto:flypluche@gmail.com)
-- :penguin: [qq@Fly-Pluche](mailto:527212878@qq.com)
 <!--END_SECTION:activity-->
 
 # ✨Hooby
@@ -36,12 +31,18 @@
 3. :dart: Play Online game with others.
 4. ⛵ Watch anime on bilibili.
 
+# 📫 How to reach me:
+- :octocat: [github@Fly-Pluche](https://github.com/Fly-Pluche)
+- :email: [gmail@Fly-Pluche](mailto:flypluche@gmail.com)
+- :penguin: [qq@Fly-Pluche](mailto:527212878@qq.com)
+
 # 🌈 Github Stats:
+<div align="middle">
 <a align="middle" href="https://count.getloli.com"><img align="middle" src="https://count.getloli.com/get/@Fly-Pluche?theme=rule34"></a><br>
 <img src = "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fly-Pluche&theme=monokai">
 <img src = "https://github-readme-stats.vercel.app/api?username=Fly-Pluche&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" style="width:500px">
 <img src = "http://github-readme-streak-stats.herokuapp.com?user=Fly-Pluche&theme=dracula" style="width:500px">
-
+</div>
 
 <!--
 **xihuanxiaorang/xihuanxiaorang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
