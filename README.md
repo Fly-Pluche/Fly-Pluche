@@ -31,12 +31,12 @@
 3. :dart: Play Online game with others.
 4. ⛵ Watch anime on bilibili.
 
-# 📫 How to reach me:
+# 📫 How to reach me
 - :octocat: [github@Fly-Pluche](https://github.com/Fly-Pluche)
 - :email: [gmail@Fly-Pluche](mailto:flypluche@gmail.com)
 - :penguin: [qq@Fly-Pluche](mailto:527212878@qq.com)
 
-# 🌈 Github Stats:
+# 🌈 Github Stats
 <div align="middle">
 <a align="middle" href="https://count.getloli.com"><img align="middle" src="https://count.getloli.com/get/@Fly-Pluche?theme=rule34"></a><br>
 <img src = "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fly-Pluche&theme=monokai">
