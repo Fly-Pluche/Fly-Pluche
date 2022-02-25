@@ -3,7 +3,8 @@
 <h3 align="center">A trash 😈developer who still loves to learn anything</h3>
 
 <!-- [![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Welcom💖&width=1000&height=400)](https://github.com/Akshay021/svg-banners) -->
-<img align="middle" src="https://user-images.githubusercontent.com/73021377/155558148-3bab9dff-3126-4dad-b223-ee6322278d24.jpeg" style="border-radius:50px;width:1000px">
+<!-- <img align="middle" src="https://user-images.githubusercontent.com/73021377/155558148-3bab9dff-3126-4dad-b223-ee6322278d24.jpeg" style="border-radius:50px;width:1000px"> -->
+![图片2](https://user-images.githubusercontent.com/73021377/155648303-f77e78e1-835d-464b-b2f2-84fbb0e4ade2.png)
 
 ```
 当大佬们在卷的时候
