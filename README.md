@@ -40,7 +40,7 @@
 <div align="middle">
 <a align="middle" href="https://count.getloli.com"><img align="middle" src="https://count.getloli.com/get/@Fly-Pluche?theme=rule34"></a><br>
 <img src = "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fly-Pluche&theme=monokai">
-<img src = "https://github-readme-stats.vercel.app/api?username=Fly-Pluche&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" style="width:500px">
+<img src = "https://github-readme-stats.vercel.app/api?username=Fly-Pluche&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" style="width:400px">
 <img src = "http://github-readme-streak-stats.herokuapp.com?user=Fly-Pluche&theme=dracula" style="width:500px">
 </div>
 
