@@ -13,10 +13,14 @@
 　／⊂_/＿＿＿＿ ／
 　￣￣￣￣￣￣￣
 ```
-
+<div align="center">
+  
 | :pencil2: | :memo:  |
 | --- | --- |
 | [Blogs](https://Fly-Pluche.github.io/) | [CSDN](https://blog.csdn.net/qq_51302564?type=blog)|
+
+</div>
+
 # ⚡ Activity
 <!--START_SECTION:activity-->
 1. 🍭 Write Articles on [CSDN](https://blog.csdn.net/qq_51302564?type=blog).
