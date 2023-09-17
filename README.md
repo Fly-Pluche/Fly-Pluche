@@ -30,7 +30,7 @@
 
 <!--END_SECTION:activity-->
 
-# ✨Hooby
+# ✨ Hobby
 1. 💬 Make friends with you.
 2. 🏸 Play ball game,such as pingpong,tennis and so on,but badminton is my best.
 3. :dart: Play Online game with others.
