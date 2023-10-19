@@ -38,7 +38,7 @@
 
 # 📫 How to reach me
 - :octocat: [github@Fly-Pluche](https://github.com/Fly-Pluche)
-- :email: [gmail@Fly-Pluche](mailto:flypluche@gmail.com)
+- :email: [gmail@Fly-Pluche](mailto:plypluche@gmail.com)
 - :penguin: [qq@Fly-Pluche](mailto:527212878@qq.com)
 
 # 🌈 Github Stats
